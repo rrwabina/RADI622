@@ -12,3 +12,27 @@ You need to install the prerequisites using the following file
 ```
 pip install -r requirements.txt
 ```
+
+
+ROMEN SAMUEL WABINA | Student No. 6536435
+PhD student, Data Science for Healthcare and Clinical Informatics 
+Clinical Epidemiology and Biostatistics, Faculty of Medicine - Ramathibodi Hospital 
+Mahidol University
+
+RADI622 Medical Image Processing
+
+├── RADI622 Assignment
+│   ├── README.md 
+│   ├── requirements.txt
+│   ├── data
+│   │	  ├── breast_cancer_assignment.png
+│   │	  ├── CT_bones_mask.png
+│   │	  ├── CT_bones.png
+│   │	  ├── ct_scan_11.jpg
+│   │	  ├── ct1248.png
+│   │	  ├── mr_T1_06.jpg
+│   │	  ├── mri1248.jpg
+│   │	 
+│   │	 
+│   └── src
+│	  ├── RADI622 Image Processing Assignment.ipynb
