@@ -1,0 +1,6 @@
+tensorflow
+pillow
+scipy
+skimage
+SimpleITK
+opencv-python
