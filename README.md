@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 
-ROMEN SAMUEL WABINA | Student No. 6536435
+ROMEN SAMUEL WABINA | Student No. 6536435 \\
 PhD student, Data Science for Healthcare and Clinical Informatics 
 Clinical Epidemiology and Biostatistics, Faculty of Medicine - Ramathibodi Hospital 
 Mahidol University
